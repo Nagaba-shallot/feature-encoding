@@ -122,6 +122,7 @@ from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.feature_extraction import FeatureHasher
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
+```
 
 ## 🚀 How to Run
 
