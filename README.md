@@ -75,7 +75,7 @@ Combines Feature Hashing for high-cardinality and Frequency Encoding for others.
 |--------|----------|----------|------------|------|
 | 1. Label Encoding | 34,119.51 | 0.8482 | (1460, 80) | 4 |
 | 2. One-Hot Encoding | 65,346.16 | 0.4433 | (1460, 268) | 6 |
-| 3. Feature Hashing | *Pending* | *Pending* | (1460, 100) | - |
+| 3. Feature Hashing | 51,255.43 | 0.6575 | (1460, 100) | 5 |
 | 4. Frequency Encoding | 33,687.39 | 0.8520 | (1460, 80) | 3 |
 | **5. Label + One-Hot** | **29,974.42** | **0.8829** | (1460, 235) | **1** 🏆 |
 | 6. Hashing + Frequency | 31,824.23 | 0.8680 | (1460, 130) | 2 |
